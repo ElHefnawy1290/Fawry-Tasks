@@ -1,0 +1,23 @@
+# ninja log v6
+3	227	7737038230896794	build.ninja	73cbf55f621d56f7
+5	225	7737033962685006	CMakeFiles/Fawry_Task2.dir/main.cpp.obj.ddi	c49044cfd406da2a
+19	56	7737033962817344	CMakeFiles/Fawry_Task2.dir/Services.cpp.obj.ddi	8d119a7b3ca777f3
+588	703	7737013786844347	Fawry_Task2.exe	84f41464cac2f54b
+276	304	7737033965395284	CMakeFiles/Fawry_Task2.dir/CXX.dd	52df5f083c7bdc86
+276	304	7737033965395284	C:/Users/AMR/Programming/Fawry_Task2/cmake-build-debug/CMakeFiles/Fawry_Task2.dir/CXXModules.json	52df5f083c7bdc86
+276	304	7737033965395284	CMakeFiles/Fawry_Task2.dir/main.cpp.obj.modmap	52df5f083c7bdc86
+305	1208	7737033965682524	CMakeFiles/Fawry_Task2.dir/main.cpp.obj	416af4d4e7cad9d2
+6	130	7737013781020265	CMakeFiles/Fawry_Task2.dir/Book.cpp.obj.ddi	35b0cea25d23dfd6
+276	304	7737033965395284	CMakeFiles/Fawry_Task2.dir/Book.cpp.obj.modmap	52df5f083c7bdc86
+153	588	7737013782487152	CMakeFiles/Fawry_Task2.dir/Book.cpp.obj	ef42f2be1a4844ba
+9	166	7737033962717792	CMakeFiles/Fawry_Task2.dir/Book_types.cpp.obj.ddi	77746f2af3e96e4a
+15	230	7737033962784705	CMakeFiles/Fawry_Task2.dir/Quantum_book_store_testing.cpp.obj.ddi	c0a21c58d8dff579
+12	276	7737033962748463	CMakeFiles/Fawry_Task2.dir/Quantum_book_store.cpp.obj.ddi	1d30d93e15c6013d
+276	304	7737033965395284	CMakeFiles/Fawry_Task2.dir/Book_types.cpp.obj.modmap	52df5f083c7bdc86
+308	866	7737033965713864	CMakeFiles/Fawry_Task2.dir/Book_types.cpp.obj	e621051697fd2e3a
+276	304	7737033965395284	CMakeFiles/Fawry_Task2.dir/Quantum_book_store.cpp.obj.modmap	52df5f083c7bdc86
+276	304	7737033965395284	CMakeFiles/Fawry_Task2.dir/Quantum_book_store_testing.cpp.obj.modmap	52df5f083c7bdc86
+276	304	7737033965395284	CMakeFiles/Fawry_Task2.dir/Services.cpp.obj.modmap	52df5f083c7bdc86
+318	379	7737033965810579	CMakeFiles/Fawry_Task2.dir/Services.cpp.obj	ee2b8cc45a1be5f7
+314	1084	7737033965770687	CMakeFiles/Fawry_Task2.dir/Quantum_book_store_testing.cpp.obj	6e695bb0d4a30678
+311	1887	7737033965737026	CMakeFiles/Fawry_Task2.dir/Quantum_book_store.cpp.obj	9538d9ee03bf1d31

@@ -1,0 +1,13 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/Fawry_Task2.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/Fawry_Task2.dir/Book.cpp.obj: dyndep
+
+build CMakeFiles/Fawry_Task2.dir/Book_types.cpp.obj: dyndep
+
+build CMakeFiles/Fawry_Task2.dir/Quantum_book_store.cpp.obj: dyndep
+
+build CMakeFiles/Fawry_Task2.dir/Quantum_book_store_testing.cpp.obj: dyndep
+
+build CMakeFiles/Fawry_Task2.dir/Services.cpp.obj: dyndep
+
